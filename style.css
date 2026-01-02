@@ -124,7 +124,7 @@ main {
   place-items: center;
 }
 
-.container {
+.testimonial-container {
   /*max width of 327px */
   max-width: 20.4375rem;
   display: grid;
@@ -132,6 +132,10 @@ main {
   grid-template-columns: repeat(1, 1fr);
   grid-template-rows: auto;
   gap: 2rem;
+}
+
+.testimonial-card {
+  padding: 2rem;
 }
 
 .title-container {

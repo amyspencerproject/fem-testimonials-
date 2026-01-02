@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Github Repo URL: [Testimonials Repo](https://github.com/amyspencerproject/four-card-feature)
-- Live Site URL: [Testimonials Page](https://amyspencerproject.github.io/four-card-feature/)
+- Github Repo URL: [Testimonials Repo](https://github.com/amyspencerproject/fem-testimonials-)
+- Live Site URL: [Testimonials Page](https://amyspencerproject.github.io/fem-testimonials-/)
 
 ## My process
 

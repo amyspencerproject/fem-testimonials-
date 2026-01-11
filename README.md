@@ -1,4 +1,4 @@
-# Frontend Mentor - Testimonials grid section
+# Frontend Mentor - Testimonials Grid
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
@@ -45,16 +45,11 @@ Users should be able to:
 
 ### What I learned
 
-- Chose to use CSS Grid as the layout for this challenge. The design has both rows and columns.
--
-
-### Continued development
-
-Thinking in CSS Grid is still difficult for me. There is another challenge on my list that Grace suggested was a good exercise for using Grid. I just need more practice.
+- This challenge wwas a great review of CSS Grid.
 
 ### Useful resources
 
-- [Autofill on Columns](https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/) - I didn't use this for the final solution but it was an interesting read
+- [CSS Grid](https://cssgrid.io/) - Wes Bos course all about CSS Grid.
 
 ## Author
 

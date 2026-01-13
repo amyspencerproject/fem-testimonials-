@@ -122,6 +122,7 @@ main {
   background-color: var(--lt-gray-blue);
   display: grid;
   place-items: center;
+  padding: 3rem 1.5rem;
 }
 
 .testimonial-container {
@@ -131,27 +132,34 @@ main {
   place-items: center;
   grid-template-columns: 1fr;
   grid-template-rows: auto;
-  gap: 2rem;
+  gap: 1.5rem;
 }
 
 .testimonial-card {
-  padding: 2rem;
+  padding: 1.5rem;
 }
 
 .title-container {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 1fr;
+  /* display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 3rem; */
+  display: flex;
+  /* justify-content: center; */
 }
 
 .headshot-img {
   border-radius: 50%;
+  /* max-width: 15%; */
+  /* width: 1.75rem; */
+  /* height: 1.75rem; */
 }
 
 .name-container {
+  /* display: flex; */
   display: grid;
-  /* not sure if I need this */
-  justify-content: left;
+  place-content: center;
+  grid-template-rows: 1rem 1rem;
+  padding-left: 1rem;
 }
 
 .name {
@@ -166,10 +174,19 @@ main {
   font-size: 1.25rem;
 }
 
+.quote {
+  padding-top: 1.5rem;
+}
+
 /* ========== Card 1 ========== */
 .card-1 {
   border-radius: 8px;
   background-color: var(--violet);
+  background-image: url("images/bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  /* background-size: 104px 102px; */
+  background-position-x: 12rem;
+  background-position-y: 0;
 }
 
 .card-1-headshot {
@@ -332,6 +349,8 @@ footer a {
 
   .card-1 {
     grid-column: span 2;
+    /* background-image: url("images/bg-pattern-quotation.svg"); */
+    background-position-x: 18rem;
   }
 
   .card-4 {

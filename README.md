@@ -46,10 +46,12 @@ Users should be able to:
 ### What I learned
 
 - This challenge wwas a great review of CSS Grid.
+- Used blockquote elements `<blockquote>` with `<q>` to put in `"` quotation marks. This gives better web accessibility. The HTML elements should always be about meaning, not just about styling. The blockquote element can also have a citation added to it e.g. `<blockquote cite="https://example.com/source-url">`.
 
 ### Useful resources
 
 - [CSS Grid](https://cssgrid.io/) - Wes Bos course all about CSS Grid.
+- [Blockquote](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/blockquote) - HTML element which is great for web accessibility
 
 ## Author
 

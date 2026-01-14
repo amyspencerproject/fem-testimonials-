@@ -342,7 +342,7 @@ footer a {
   /* four columns two rows with some element taking two columns */
   .testimonial-container {
     max-width: 69.375rem;
-    align-items: start;
+    align-items: stretch;
     grid-template-columns: repeat(4, 1fr);
     grid-auto-flow: density;
   }
